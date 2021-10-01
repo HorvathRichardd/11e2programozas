@@ -1,0 +1,7 @@
+Z:\programozas11\Monok Judit\202110.01\202110.01\bin\Debug\202110.01.exe.config
+Z:\programozas11\Monok Judit\202110.01\202110.01\bin\Debug\202110.01.exe
+Z:\programozas11\Monok Judit\202110.01\202110.01\bin\Debug\202110.01.pdb
+Z:\programozas11\Monok Judit\202110.01\202110.01\obj\Debug\202110.01.csprojAssemblyReference.cache
+Z:\programozas11\Monok Judit\202110.01\202110.01\obj\Debug\202110.01.csproj.CoreCompileInputs.cache
+Z:\programozas11\Monok Judit\202110.01\202110.01\obj\Debug\202110.01.exe
+Z:\programozas11\Monok Judit\202110.01\202110.01\obj\Debug\202110.01.pdb
