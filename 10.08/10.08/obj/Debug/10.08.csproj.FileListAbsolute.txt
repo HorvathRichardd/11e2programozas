@@ -1,0 +1,7 @@
+Z:\programozas11\Monok Judit\10.08\10.08\bin\Debug\10.08.exe.config
+Z:\programozas11\Monok Judit\10.08\10.08\bin\Debug\10.08.exe
+Z:\programozas11\Monok Judit\10.08\10.08\bin\Debug\10.08.pdb
+Z:\programozas11\Monok Judit\10.08\10.08\obj\Debug\10.08.csprojAssemblyReference.cache
+Z:\programozas11\Monok Judit\10.08\10.08\obj\Debug\10.08.csproj.CoreCompileInputs.cache
+Z:\programozas11\Monok Judit\10.08\10.08\obj\Debug\10.08.exe
+Z:\programozas11\Monok Judit\10.08\10.08\obj\Debug\10.08.pdb
